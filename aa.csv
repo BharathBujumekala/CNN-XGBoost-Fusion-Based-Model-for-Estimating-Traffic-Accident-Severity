@@ -1,0 +1,17 @@
+Parameters,Algorithms,Value
+RF Full Features,Accuracy,86.7
+AC Full Features,Accuracy,84.39999999999999
+ETC Full Features,Accuracy,85.7
+GBM Full Features,Accuracy,87.0
+VC(LR+SGD) Full Features,Accuracy,87.3
+CNN Full Features,Accuracy,88.9
+RFCNN Full Features,Accuracy,96.0
+Extension XGBoost Full Features,Accuracy,98.0
+RF Selected Features,Accuracy,96.0
+AC Selected Features,Accuracy,97.0
+ETC Selected Features,Accuracy,96.7
+GBM Selected Features,Accuracy,97.3
+VC(LR+SGD) Selected Features,Accuracy,96.8
+CNN Selected Features,Accuracy,98.2
+RFCNN Selected Features,Accuracy,98.5
+XGBoost Selected Features,Accuracy,100.0
